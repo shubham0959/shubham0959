@@ -29,7 +29,7 @@ Voice assistant combining speech recognition with an NLP command engine (25+ com
 
 | | |
 |---|---|
-| **Languages** | Python, SQL, R |
+| **Languages** | Python, SQL |
 | **Data & Analysis** | Pandas, NumPy, Matplotlib |
 | **BI & Databases** | Power BI, MySQL, SQLite, Oracle, Excel |
 | **Tools** | VS Code, Git |
