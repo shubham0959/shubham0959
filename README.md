@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile-photo.jpg" width="150" style="border-radius: 50%;" alt="Shubham Sharma" />
-</p>
-
 <h1 align="center">Shubham Sharma</h1>
 <p align="center">Data Analyst & Software Engineer | Python · SQL · Power BI</p>
 
